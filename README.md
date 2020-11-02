@@ -13,7 +13,7 @@ in **backend** :
 - 🌱 [Spring](https://spring.io)
 
 in **database** :
-- 🗃️[Oracle Database](https://www.oracle.com/fr/database/)
+- 🗃️[PostgreSQL](https://www.postgresql.org/)
 
 in **cloud infrastructure** :
 - 🐧 Management of Linux and Unix operating systems
