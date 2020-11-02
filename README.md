@@ -1,6 +1,6 @@
 ### Hi there I'm **geoffreybrunet** 👋
 
-👨🏻‍💻 I'm student at **[EPSI]**(https://www.epsi.fr) and work at **[Quartz-insight]**(https://quartz-insight.com). I'm learning code, and really love that.
+👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work at [Quartz-insight](https://quartz-insight.com). I'm learning code, and really love that.
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me: geoffrey.brunet@icloud.com  
