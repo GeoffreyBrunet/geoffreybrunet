@@ -9,6 +9,7 @@ What i learn, in **frontend** :
 - 🅰️ [Angular](https://angular.io)
 
 in **backend** :
+- ⚙️ [Rust-lang](https://www.rust-lang.org/) (and a lot of love for [Actix-web](https://crates.io/crates/actix-web))
 - ☕️ [Java](https://www.oracle.com/java/) & [java EE](https://www.oracle.com/fr/java/technologies/java-ee-glance.html)
 - 🌱 [Spring](https://spring.io)
 
