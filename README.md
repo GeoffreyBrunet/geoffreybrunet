@@ -17,7 +17,7 @@
 
 ## Technologies & Tools
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=macOS&logoColor=FFFFFF&label=)
+![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=)
