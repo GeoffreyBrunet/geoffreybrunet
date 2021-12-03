@@ -16,7 +16,7 @@
 - ⚙️ [**todo-list**](https://github.com/GeoffreyBrunet/TODO-LIST), a REST API for to-do app, build with [Rocket.rs](https://rocket.rs) as web server and [PostgreSQL](https://www.postgresql.org/) for database.
 
 ## IOT
-- 🛰 [Tempapp](https://github.com/GeoffreyBrunet/tempAppv2), a Node.js web app for get data and control an Arduino Uno.
+- 🛰 [**Tempapp**](https://github.com/GeoffreyBrunet/tempAppv2), a Node.js web app for get data and control an Arduino Uno.
 
 # Technologies & Tools
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
