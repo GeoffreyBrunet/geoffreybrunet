@@ -5,6 +5,9 @@
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me: geoffrey.brunet@icloud.com  
 
+## Personnal projects
+- ⚙️ [redis-over-http-async](https://github.com/GeoffreyBrunet/redis-over-http-async)   
+
 What i learn, in **frontend** :
 - 🅰️ [Angular](https://angular.io)
 
@@ -22,4 +25,3 @@ in **cloud infrastructure** :
 - 😄 [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 
-🔭 I’m currently working on ... 🚧(Description in coming)
