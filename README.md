@@ -1,17 +1,21 @@
-### Hi there I'm **geoffreybrunet** 👋
+## Presentation
+
+## Hi there I'm **geoffreybrunet** 👋
 
 👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work at [Quartz-insight](https://quartz-insight.com). I'm learning code, and really love that.
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me: geoffrey.brunet@icloud.com  
 
-## Personnal projects
+# Personnal projects
 
-### Frontend
+## Frontend
 
-### Backend
+## Backend
 - ⚙️ [redis-over-http-async](https://github.com/GeoffreyBrunet/redis-over-http-async)  
 - ⚙️ [TODO-LIST](https://github.com/GeoffreyBrunet/TODO-LIST) 
+
+# About me
 
 What i learn, in **frontend** :
 - 🅰️ [Angular](https://angular.io)
