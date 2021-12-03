@@ -6,6 +6,10 @@
 📫 How to reach me: geoffrey.brunet@icloud.com  
 
 ## Personnal projects
+
+### Frontend
+
+### Backend
 - ⚙️ [redis-over-http-async](https://github.com/GeoffreyBrunet/redis-over-http-async)  
 - ⚙️ [TODO-LIST](https://github.com/GeoffreyBrunet/TODO-LIST) 
 
