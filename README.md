@@ -2,7 +2,7 @@
 
 ## Hi there I'm **geoffreybrunet** 👋
 
-👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI company.
+👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI company. Compilers are my friends, they show me my errors before execution.
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me: geoffrey.brunet@icloud.com, [my Tweeter](https://twitter.com/geoffreybrunet5)
