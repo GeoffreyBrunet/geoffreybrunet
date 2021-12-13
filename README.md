@@ -12,8 +12,8 @@
 ### Frontend
 
 ### Backend
-- ⚙️ [**redis-over-http-async**](https://github.com/GeoffreyBrunet/redis-over-http-async), a CRUD REST API for use [Redis](https://redis.io) trough HTTP, build with [Actix-Web](https://actix.rs).
-- ⚙️ [**todo-list**](https://github.com/GeoffreyBrunet/TODO-LIST), a REST API for to-do app, build with [Rocket.rs](https://rocket.rs) as web server and [PostgreSQL](https://www.postgresql.org/) for database.
+- 🦀 [**redis-over-http-async**](https://github.com/GeoffreyBrunet/redis-over-http-async), a CRUD REST API for use [Redis](https://redis.io) trough HTTP, build with [Actix-Web](https://actix.rs).
+- 🦀 [**todo-list**](https://github.com/GeoffreyBrunet/TODO-LIST), a REST API for to-do app, build with [Rocket.rs](https://rocket.rs) as web server and [PostgreSQL](https://www.postgresql.org/) for database.
 
 ### IOT
 - 🛰 [**Tempapp**](https://github.com/GeoffreyBrunet/tempAppv2), a Node.js web app for get data and control an Arduino Uno.
