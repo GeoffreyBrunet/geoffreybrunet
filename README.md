@@ -19,6 +19,12 @@
 - 🛰 [**Tempapp**](https://github.com/GeoffreyBrunet/tempAppv2), a Node.js web app for get data and control an Arduino Uno.
 
 # Technologies & Tools
+<img src="https://simpleicons.org/icons/react.svg" alt="Simple Icons" width=64 height=64>
+
+
+
+
+
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=)
 ![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
