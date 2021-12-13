@@ -7,28 +7,6 @@
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me: geoffrey.brunet@icloud.com, [my Tweeter](https://twitter.com/geoffreybrunet5)
 
-# Personnal projects & technologies
-
-
-## Technologies & Tools
-
-### Frontend
-<p float="left">
-  <img src="https://simpleicons.org/icons/typescript.svg" alt="Simple Icons" width=50 height=50>
-  <img src="https://simpleicons.org/icons/react.svg" alt="Simple Icons" width=50 height=50>
-</p>
-
-### Backend
-<p float="left">
-  <img src="https://simpleicons.org/icons/rust.svg" alt="Simple Icons" width=50 height=50>
-</p>
-
-### Databases
-<p float="left">
-  <img src="https://simpleicons.org/icons/postgresql.svg" alt="Simple Icons" width=50 height=50>
-  <img src="https://simpleicons.org/icons/redis.svg" alt="Simple Icons" width=50 height=50>
-</p>
-
 ## Projects
 
 ### Frontend
