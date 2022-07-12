@@ -2,19 +2,28 @@
 
 ## Hi there I'm **geoffreybrunet** 👋
 
-👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI company. Compilers are my friends, they show me my errors before execution.
+👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI/EPM company. Passionate about Machine learning and Scientific Computing, I learn both at school, in my company and with personnal work (And love 🐍).
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
-📫 How to reach me: geoffrey.brunet@icloud.com, [my Tweeter](https://twitter.com/geoffreybrunet5)
+📫 How to reach me:
 
-## Projects
+geoffrey.brunet@icloud.com  
 
-### Frontend
+<a href="https://www.linkedin.com/in/geoffrey-brunet-558315ba/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;  
 
-### Backend
-- 🦀 [**redis-over-http-async**](https://github.com/GeoffreyBrunet/redis-over-http-async), a CRUD REST API for use [Redis](https://redis.io) trough HTTP, build with [Actix-Web](https://actix.rs).
-- 🦀 [**todo-list**](https://github.com/GeoffreyBrunet/TODO-LIST), a REST API for to-do app, build with [Rocket.rs](https://rocket.rs) as web server and [PostgreSQL](https://www.postgresql.org/) for database.
-- 🦀 [**merge-sort-tdd**](https://github.com/GeoffreyBrunet/merge-sort-tdd), implementation of Merge-Sort algorithm in Rust.
+<a href="https://twitter.com/geoffreybrunet5">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-### IOT
-- 🛰 [**Tempapp**](https://github.com/GeoffreyBrunet/tempAppv2), a Node.js web app for get data and control an Arduino Uno.
+## Knowledges
+- Programming langages: Python, Javascript
+- Code editors & IDEs: Jupyter-lab (& Google Colab), VSCode, PyCharm
+- Data Science: Numpy, Pandas, Scipy
+- Machine learning: Tensorflow, Scikit-Learn
+- Plots & presentations: Matplotlib, Streamlit 
+- Databases: PosgreSQL, SQLite, Redis
+- Management and versionning: Git, Anaconda, Docker, Gitlab-CI
+- Web APIs: FastAPI
+- Other: LaTeX
