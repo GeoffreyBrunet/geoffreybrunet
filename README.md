@@ -18,12 +18,12 @@ geoffrey.brunet@icloud.com
 </a>&nbsp;&nbsp;
 
 ## Knowledges
-- Programming langages: Python, Javascript
-- Code editors & IDEs: Jupyter-lab (& Google Colab), VSCode, PyCharm
-- Data Science: Numpy, Pandas, Scipy
-- Machine learning: Tensorflow, Scikit-Learn
-- Plots & presentations: Matplotlib, Streamlit 
-- Databases: PosgreSQL, SQLite, Redis
-- Management and versionning: Git, Anaconda, Docker, Gitlab-CI
-- Web APIs: FastAPI
-- Other: LaTeX
+- **Programming langages**: Python, Javascript
+- **Code editors & IDEs**: Jupyter-lab (& Google Colab), VSCode, PyCharm
+- **Data Science**: Numpy, Pandas, Scipy
+- **Machine learning**: Tensorflow, Scikit-Learn
+- **Plots & presentations**: Matplotlib, Streamlit 
+- **Databases**: PosgreSQL, SQLite, Redis
+- **Management and versionning**: Git, Anaconda, Docker, Gitlab-CI
+- **Web APIs**: FastAPI
+- **Other**: LaTeX
