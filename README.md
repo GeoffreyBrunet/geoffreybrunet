@@ -2,7 +2,7 @@
 
 ## Hi there I'm **geoffreybrunet** 👋
 
-👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI/EPM company. Passionate about Machine learning and Scientific Computing, I learn both at school, in my company and with personnal work (And love 🐍).
+👨🏻‍💻 I'm student at [EPSI](https://www.epsi.fr) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI/EPM company. Passionate about Machine learning and Scientific Computing, I learn both at school, in my company and with personnal work.
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me:
@@ -18,7 +18,7 @@ geoffrey.brunet@icloud.com
 </a>&nbsp;&nbsp;
 
 ## Knowledges
-- **Programming langages**: Python, Javascript
+- **Programming langages**: Python, C++, Java
 - **Code editors & IDEs**: Jupyter-lab (& Google Colab), VSCode, PyCharm
 - **Data Science**: Numpy, Pandas, Scipy
 - **Machine learning**: Tensorflow, Scikit-Learn
