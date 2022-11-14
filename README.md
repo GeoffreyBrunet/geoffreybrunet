@@ -21,7 +21,7 @@ geoffrey.brunet@icloud.com
 - **Programming langages**: Python, C++, Java
 - **Code editors & IDEs**: Jupyter-lab (& Google Colab), VSCode, PyCharm
 - **Data Science**: Numpy, Pandas, Scipy
-- **Machine learning**: Tensorflow, Scikit-Learn
+- **Machine learning**: PyTorch, Scikit-Learn, XGBoost
 - **Plots & presentations**: Matplotlib, Streamlit 
 - **Databases**: PosgreSQL, SQLite, Redis
 - **Management and versionning**: Git, Anaconda, Docker, Gitlab-CI
