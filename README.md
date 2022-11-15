@@ -19,11 +19,12 @@ geoffrey.brunet@icloud.com
 
 ## Knowledges
 - **Programming langages**: Python, C++, Java
-- **Code editors & IDEs**: Jupyter-lab (& Google Colab), VSCode, PyCharm
+- **Code editors & IDEs**: VSCode, Jupyter-lab (& Google Colab), PyCharm
 - **Data Science**: Numpy, Pandas, Scipy
 - **Machine learning**: PyTorch, Scikit-Learn, XGBoost
 - **Plots & presentations**: Matplotlib, Streamlit 
 - **Databases**: PosgreSQL, SQLite, Redis
 - **Management and versionning**: Git, Anaconda, Docker, Gitlab-CI
 - **Web APIs**: FastAPI
+- **Build tools**: Hatch, CMake
 - **Other**: LaTeX
