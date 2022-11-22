@@ -28,3 +28,6 @@ geoffrey.brunet@icloud.com
 - **Web APIs**: FastAPI
 - **Build tools**: Hatch, CMake
 - **Other**: LaTeX
+
+## My notes
+You can find here my [obsidian](https://obsidian.md) vault: [Github Repo](https://github.com/GeoffreyBrunet/MLVault)
