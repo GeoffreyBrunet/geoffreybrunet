@@ -2,7 +2,7 @@
 
 ## Hi there I'm **geoffreybrunet** 👨🏻‍💻
 
-I'm student at [EPSI](https://www.epsi.fr) (preparing MSc in Computer Science) and work as developer at [Quartz-insight](https://quartz-insight.com), a BI/EPM company. Passionate about Machine learning and Scientific Computing, I learn both at school, in my company and with personnal work.
+I'm a full-stack developer at [Quartz-insight](https://quartz-insight.com), a BI/EPM company. Passionate about Fronted development and web design, I learn both in my company and with personnal work.
 
 😄 Pronouns: [He/Him](https://pronoun.is/he)  
 📫 How to reach me:
@@ -18,16 +18,12 @@ geoffrey.brunet@icloud.com
 </a>&nbsp;&nbsp;
 
 ## Knowledges
-- **Programming langages**: Python, C++, Java
-- **Code editors & IDEs**: VSCode, Jupyter-lab (& Google Colab), PyCharm
-- **Data Science**: Numpy, Pandas, Scipy
-- **Machine learning**: PyTorch, Scikit-Learn, XGBoost
-- **Plots & presentations**: Matplotlib, Streamlit 
-- **Databases**: PosgreSQL, SQLite, Redis
-- **Management and versionning**: Git, Anaconda, Docker, Gitlab-CI
-- **Web APIs**: FastAPI
-- **Build tools**: Hatch, CMake
-- **Other**: LaTeX
+- **Programming langages**: JavaScript / TypeScript, Rust 👨🏻‍💻
+- **Web / mobile frameworks & librairies**: React & React Native (with Expo), Next.js ⚛️
+- **Code editor**: Neovim 💚
+- **Databases**: PosgreSQL, SQLite, Redis 💾
+- **Management and versionning**: Git, Docker, Gitlab-CI ⚓️
+- **Web APIs**: Hono 🔥
+- **Package managers**: npm & pnpm 🏗️
+- **Other**: Markdown, MDX, LaTeX 📝
 
-## My notes
-You can find here my [obsidian](https://obsidian.md) vault: [Github Repo](https://github.com/GeoffreyBrunet/MLVault)
