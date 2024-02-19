@@ -18,12 +18,12 @@ geoffrey.brunet@icloud.com
 </a>&nbsp;&nbsp;
 
 ## Knowledges
-- **Programming langages**: JavaScript / TypeScript, Rust 👨🏻‍💻
-- **Web / mobile frameworks & librairies**: React & React Native (with Expo), Next.js ⚛️
+- **Programming langages**: TypeScript, Go 👨🏻‍💻
+- **Web / mobile frameworks & librairies**: Angular 🅰️
 - **Code editor**: Neovim 💚
 - **Databases**: PosgreSQL, SQLite, Redis 💾
 - **Management and versionning**: Git, Docker, Gitlab-CI ⚓️
-- **Web APIs**: Hono 🔥
+- **Web APIs & Backend **: Hono 🔥
 - **Package managers**: npm & pnpm 🏗️
 - **Other**: Markdown, MDX, LaTeX 📝
 
